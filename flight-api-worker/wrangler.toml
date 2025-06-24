@@ -1,0 +1,6 @@
+name = "flight-api-worker"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+[vars]
+AVIATIONSTACK_API_KEY = "e2be4bafe53663d5ee133098baac4a3a"
